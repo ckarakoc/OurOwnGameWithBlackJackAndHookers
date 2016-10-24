@@ -66,7 +66,15 @@ Armies are hired in [cities](#cities). There is no hard cap on the number of arm
 While armies are travelling they need food and rations to survive. These can be supplied by cities, by creating a food supply to this army. These food supplies are not bounded by borders, as armies they can move freely across the map. They can however be destroyed or taken by enemy armies. Armies can hold a certain amount of supplies with them, dependent on their size and strength. If they do not have enough supplies, the soldiers start dying. This makes surrounding an enemy army a very strong tactic as they will have to fight at some point. 
 Supplying can happen in two different ways:
   1. Manual supplying, the player can send convoys across the map to an army. These can be intercepted by enemies.
-  2. Automatic supplying, a connection between the city and the army is established. This connection supplies the army. An enemy army can intercept such a connection by standing on it. If this is the case, the enemy army will receive the food send over the line and the allied army will not receive anything.
+  2. Automatic supplying, a connection between the city and the army is established. This connection supplies the army. An enemy army can intercept such a connection by standing on it. If this is the case, the enemy army will receive the food send over the line and the allied army will not receive anything.  
+####Stances
+Armies can have different stances to accomplish different goals. With these stances, armies interact differently with the world around them, be it armies, cities, or resources. Each stance has different properties from the others. Each has a range that it can walk, certain combat bonuses that will go active depending on whether they attack or get attacked and they have different interactions with their surroundings.  
+The stances are:  
+  1. Standard  
+     The standard stance features nothing extraordinary. The range an army can walk is standard, no special bonuses are given in combat (aside from faction or unit specific bonuses) and it will interact with the surroundings in the default way. It can engage in combat with an enemy army, can start sieges, raid villages
+  2. Fortify  
+
+##Borders
 
 ##War
 War is the way to expand your country. It is shared by all the factions, but not necessarily preferred by all. You do however eventually need to win the game through defeating your oppenent with war or with your faction 'special'
@@ -77,8 +85,7 @@ War is the way to expand your country. It is shared by all the factions, but not
 Fat people. Are able to roll themselves up mountains. The bigger the unit the slower the unit. The fastest units move with granny-cars. Their whole weaponry will be based on fastfood. 
 
 
-###
-BlackJack:
+###BlackJack:
 Gamblers. Their dynamic is based on probability/rng. The rng will not happen with their damage, but with their utility (buildings etc.). They will wear full black clothing + suits and smink themselves like black pieters. They have 0.00001% chance to spawn with 10 epic/ultimate units (basically winning the game)
 
 . They can make rivers and 'card'bridges as borders of their country.
